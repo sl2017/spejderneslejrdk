@@ -37,7 +37,7 @@
     top: 0px;
     right: 0px;
     left: auto;
-    z-index: 9998;
+    z-index: 8998;
     display: block;
     overflow: auto;
     width: 60%;
@@ -622,7 +622,7 @@ ul.menu-level--1 {
   }
 }
 
-// Burger mneu toggle.
+// Burger menu toggle.
 .menu-toggle {
   // Hide on bigger screens.
   display: none;
@@ -631,7 +631,7 @@ ul.menu-level--1 {
   top: 40px;
   right: 0px;
   width: 50px;
-  z-index: 9999;
+  z-index: 9000;
   cursor: pointer;
 
   // Transition.

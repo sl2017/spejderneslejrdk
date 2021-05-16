@@ -956,7 +956,7 @@ h6 {
     top: 0px;
     right: 0px;
     left: auto;
-    z-index: 9998;
+    z-index: 8998;
     display: block;
     overflow: auto;
     width: 60%;
@@ -1445,7 +1445,7 @@ h6 {
   top: 40px;
   right: 0px;
   width: 50px;
-  z-index: 9999;
+  z-index: 9000;
   cursor: pointer;
   -webkit-transition: -webkit-transform 200ms;
   transition: -webkit-transform 200ms;
@@ -2375,7 +2375,7 @@ ul.atcb-list li {
   float: right;
   background-image: url("../images/host_logo.png");
   background-position: 50% 50%;
-  background-size: 190px;
+  background-size: 200px;
   background-repeat: no-repeat;
 }
 
